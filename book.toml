@@ -17,7 +17,7 @@ use-default-preprocessors = true
 curly-quotes = true
 git-repository-url = "https://github.com/Rendrix-Junior/Guia-Modding-Stardew-Valley"
 git-repository-icon = "fa-github"
-#edit-url-template = "https://github.com/Rendrix-Junior/Guia-Modding-Stardew-Valley/edit/master/guide/{path}"
+edit-url-template = "https://github.com/Rendrix-Junior/Guia-Modding-Stardew-Valley/edit/main/{path}"
 site-url = "/Guia-Modding-Stardew-Valley/"
 
 [output.html.print]
