@@ -1,3 +1,0 @@
-# Contribuidores
-
-Roxas-Alt
