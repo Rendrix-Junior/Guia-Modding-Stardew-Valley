@@ -1,0 +1,25 @@
+[book]
+title = "Guia Modding"
+authors = ["Rendrix Junior"]
+description = "Aprenda a criar Mods para Stardew Valley!"
+language = "pt"
+multilingual = false
+src = "src"
+
+[build]
+curly-quotes = true
+
+build-dir = "book"
+create-missing = true
+use-default-preprocessors = true
+
+[output.html]
+curly-quotes = true
+git-repository-url = "https://github.com/Rendrix-Junior/Guia-Modding-Stardew-Valley"
+git-repository-icon = "fa-github"
+#edit-url-template = "https://github.com/Rendrix-Junior/Guia-Modding-Stardew-Valley/edit/master/guide/{path}"
+site-url = "/Guia-Modding-Stardew-Valley/"
+
+[output.html.print]
+enable = true
+page-break = true
