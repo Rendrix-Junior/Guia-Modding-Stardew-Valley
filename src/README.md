@@ -1,21 +1,30 @@
 # Introdução
 
+![banner](https://i.imgur.com/OMFnY4K.png "Venha participar da comunidade mais entusiasta de Stardew Valley!")
+
 Seja muito bem-vindo(a) ao **Guia Modding**, um guia completo criado pela [Vila dos Tradutores](https://dsc.gg/vila-dos-tradutores) para você que deseja liberar seus instintos criativos e criar grandes maravilhas para esse jogo.
 
-Neste guia você encontrará exemplos e explicações sobre como criar mods ou sobre como os frameworks funcionam. Um compilado de conhecimento que gostaríamos de compartilhar com você para que não tenha que sofrer lendo e tentando entender documentações.
+Neste guia você encontrará um tutorial completo sobre como criar mods, iniciando sobre quais programas — *gratuitos e pagos* — utilizar, passando por explicação de como o jogo funciona — *A exemplo: diálogos, cartas, itens, schedule...* — tocando até mesmo nos Frameworks — *suas funções e como utilizar* — e chegando até mesmo a oferecer templates prontos para que você tenha a menor dificuldade possível quando for criar seu mod.
 
-Estaremos tratando sobre os principais **Frameworks** tais como:
+**Nota**
+
+Explicaremos sobre os principais **Frameworks**, a exemplo:
 
 - [ CP ] Content Patcher
 - [ JA ] Json Assets
 - [ MFM ] Mail Framework Mod
 
-Trataremos também de compartilhar ferramentas e compartilhar a maior quantidade de informações possíveis.
+Além disso, iremos ensinar sobre:
+
+- Adição/Criação/Edição de NPC
+- Adição/Criação/Edição de Mapa
+- Adição/Criação/Edição de Item
+- Adição/Criação/Edição de Cartas
+
+Nosso objetivo é compartilhar o máximo de conhecimento possível!
 
 ---
 
-Se encontrar qualquer problema ou deseja contribuir com este guia, seja livre para enviar um Pull Request ou informar o @roxas_alt ou qualquer administrador da [Vila dos Tradutores](https://dsc.gg/vila-dos-tradutores).
+Para qualquer problema que estiver enfrentando, busque suporte na comunidade.
 
----
-
-Pegue a pipoca e vamos começar essa bagaça.
+Para qualquer alteração ou contribuição que desejar realizar neste guia, seja livre para usar o git e realizar um Pull Request ou entrar na [Vila dos Tradutores](https://dsc.gg/vila-dos-tradutores) e informar o **Roxas** sobre seus planos.

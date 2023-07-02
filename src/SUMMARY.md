@@ -1,11 +1,14 @@
-# Summary
+# Sumário
 
 [Introdução](README.md)
 
-# Guia Inicial
+# Ferramentas
 
-- [Instalação](teste.md)
-  - [Markdown](Markdown.md)
+- [Programas](setup/programas.md)
+  - [Editores de Texto](setup/texto.md)
+  - [Editores de Imagem](setup/imagens.md)
+  - [Editores de Mapa](setup/mapa.md)
+  - [Programas Adicionais](setup/adicional.md)
 
 -----------
 
