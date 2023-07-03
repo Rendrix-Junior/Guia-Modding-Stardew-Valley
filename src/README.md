@@ -4,9 +4,9 @@
 
 Seja muito bem-vindo(a) ao **Guia Modding**, um guia completo criado pela [Vila dos Tradutores](https://dsc.gg/vila-dos-tradutores) para você que deseja liberar seus instintos criativos e criar grandes maravilhas para esse jogo.
 
-Neste guia você encontrará um tutorial completo sobre como criar mods, iniciando sobre quais programas — *gratuitos e pagos* — utilizar, passando por explicação de como o jogo funciona — *A exemplo: diálogos, cartas, itens, schedule...* — tocando até mesmo nos Frameworks — *suas funções e como utilizar* — e chegando até mesmo a oferecer templates prontos para que você tenha a menor dificuldade possível quando for criar seu mod.
+Neste guia você encontrará um tutorial completo sobre como criar mods, iniciando sobre quais programas — *gratuitos e pagos* — utilizar, passando por explicação de como o jogo funciona — *a exemplo: diálogos, cartas, itens, schedule...* — tocando até mesmo nos Frameworks — *suas funções e como utilizar* — e também vamos oferecer modelos prontos para que você tenha a menor dificuldade possível quando for criar seu mod.
 
-**Nota**
+**Nota:** Neste guia, estaremos ensinando a utilizar os Frameworks, para mais informação leia [TEMP LINK]().
 
 Explicaremos sobre os principais **Frameworks**, a exemplo:
 
