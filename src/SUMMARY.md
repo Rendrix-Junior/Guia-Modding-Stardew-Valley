@@ -2,13 +2,13 @@
 
 [Introdução](README.md)
 
-# Ferramentas
+# Requisitos
 
 - [Programas](setup/programas.md)
   - [Editores de Texto](setup/texto.md)
   - [Editores de Imagem](setup/imagens.md)
   - [Editores de Mapa](setup/mapa.md)
-  - [Programas Adicionais](setup/adicional.md)
+- [Programas Adicionais](setup/adicional.md)
 
 -----------
 

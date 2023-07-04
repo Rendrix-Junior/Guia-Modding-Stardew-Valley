@@ -9,4 +9,3 @@ Escolha uma ferramenta de cada tópico abaixo — *com exceção dos Programas A
 1. [Editores de Texto](texto.md)
 2. [Editores de Imagem](imagens.md)
 3. [Editores de Mapa](mapa.md)
-4. [Programas Adicionais](adicional.md)
